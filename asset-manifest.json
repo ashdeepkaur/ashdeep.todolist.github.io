@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashdeep.todolist.github.io/static/css/main.d305f1b5.css",
+    "main.js": "/ashdeep.todolist.github.io/static/js/main.d44acbf2.js",
+    "static/js/787.075820ff.chunk.js": "/ashdeep.todolist.github.io/static/js/787.075820ff.chunk.js",
+    "index.html": "/ashdeep.todolist.github.io/index.html",
+    "main.d305f1b5.css.map": "/ashdeep.todolist.github.io/static/css/main.d305f1b5.css.map",
+    "main.d44acbf2.js.map": "/ashdeep.todolist.github.io/static/js/main.d44acbf2.js.map",
+    "787.075820ff.chunk.js.map": "/ashdeep.todolist.github.io/static/js/787.075820ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d305f1b5.css",
+    "static/js/main.d44acbf2.js"
+  ]
+}
